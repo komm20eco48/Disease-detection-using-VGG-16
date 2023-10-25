@@ -28,4 +28,11 @@ The following Python libraries and packages were used in this project:
 - Googletrans (for translation)
 - PIL (Pillow)
 
-You can install these dependencies using `pip`. For example:
+## Acknowledgments
+The dataset used in this project was collected from Kaggle, GitHub, and Google, and is credited to the respective contributors from those platforms.
+
+## Author
+- Masthan Gowtham
+
+Feel free to reach out if you have any questions or feedback!
+
